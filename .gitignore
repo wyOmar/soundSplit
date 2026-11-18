@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime files (per-machine)
+settings.json
+settings.json.tmp
+soundsplit.log
+ui.out
+ui.err
+
+# Build output (e.g. if packaged with PyInstaller later)
+build/
+dist/
+*.spec
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
